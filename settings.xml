@@ -130,6 +130,16 @@ under the License.
       <passphrase>optional; leave empty if not used.</passphrase>
     </server>
     -->
+    <server>  
+      <id>palette-releases</id>  
+      <username>palette</username>  
+      <password>palette123</password>  
+    </server>  
+    <server>  
+      <id>palette-snapshots</id>  
+      <username>palette</username>  
+      <password>palette123</password>  
+    </server>  
 	
   </servers>
 
